@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Camp Update</title>
+<link>https://codelinsoft.it/package/camp/camp_update.xml</link>
+<description>Update CAMP Control Center.</description>
+<language>en</language>
+<item>
+<title>Version 1.4.4</title>
+<sparkle:releaseNotesLink>https://www.codelinsoft.it/sito/2013-11-17-17-56-34/camp.html</sparkle:releaseNotesLink>
+<pubDate>Tue, 23 Nov 2020 18:11:12 +0200</pubDate>
+<enclosure url="https://codelinsoft.it/package/camp/camp_update_control_panel-1.8.8.exe" sparkle:version="1.8.8"  type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
