@@ -1,7 +1,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>Camp Update</title>
-<link>https://github.com/specialworld83/update/blob/main/camp_update.xml</link>
+<link>https://raw.githubusercontent.com/specialworld83/update/main/camp_update.xml?token=ACF3NWV53O5H2E6RO3QK3XC7XOODA</link>
 <description>Update CAMP Control Center.</description>
 <language>en</language>
 <item>
