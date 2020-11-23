@@ -5,10 +5,10 @@
 <description>Update CAMP Control Center.</description>
 <language>en</language>
 <item>
-<title>Version 1.4.4</title>
-<sparkle:releaseNotesLink>https://raw.githubusercontent.com/specialworld83/update/main/release_notes.html?token=ACF3NWQSQOEYEYSZKTQ4PHC7XORTE</sparkle:releaseNotesLink>
+<title>Version 1.4.3</title>
+<sparkle:releaseNotesLink>https://codelinsoft.it/package/camp/release_notes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 23 Nov 2020 18:11:12 +0200</pubDate>
-<enclosure url="https://github.com/specialworld83/update/blob/main/camp_update_control_panel-2.0.exe?raw=true" sparkle:version=""  type="application/octet-stream"/>
+<enclosure url="https://github.com/specialworld83/update/blob/main/camp_update_control_panel-2.0.exe?raw=true" sparkle:version="2.0"  type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
