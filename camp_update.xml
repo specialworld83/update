@@ -1,11 +1,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>Camp Update</title>
-<link>https://raw.githubusercontent.com/specialworld83/update/main/camp_update.xml?token=ACF3NWV53O5H2E6RO3QK3XC7XOODA</link>
+<link>https://github.com/specialworld83/update/blob/main/camp_update.xml</link>
 <description>Update CAMP Control Center.</description>
 <language>en</language>
 <item>
-<title>Version 1.4.3</title>
+<title>Version 1.4.4</title>
 <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
 <pubDate>Tue, 23 Nov 2020 18:11:12 +0200</pubDate>
 <enclosure url="https://github.com/specialworld83/update/blob/main/camp_update_control_panel-2.0.exe?raw=true" sparkle:version="2.0"  type="application/octet-stream"/>
